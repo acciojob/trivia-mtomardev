@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+.Delhitext{
+    max-width: 600px;
+    background-color: #f8fffe;
+    font-weight: bold;
+    border-left: 8px solid green;
+    padding: 15px;
+    margin: 10px;
+
+}
